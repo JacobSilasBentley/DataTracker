@@ -1,0 +1,22 @@
+{
+  "name": "datatracker",
+  "version": "1.0.0",
+  "description": "Web App for Tracking Your Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobSilasBentley/DataTracker.git"
+  },
+  "author": "Jacob Silas Bentley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacobSilasBentley/DataTracker/issues"
+  },
+  "homepage": "https://github.com/JacobSilasBentley/DataTracker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
